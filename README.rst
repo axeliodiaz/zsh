@@ -6,7 +6,7 @@ Instalation
 
 install zsh::
 
- aptitude install zsh
+ sudo aptitude install zsh
 
 Configuration
 -------------
